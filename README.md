@@ -31,4 +31,4 @@
 
 [twitter]: https://twitter.com/ArnavMehta003
 [stackoverflow]: https://stackoverflow.com/users/12243244/arnav-mehta
-[discord] https://discord.com
+[discord]: https://discord.com
