@@ -1,9 +1,8 @@
 ### Hi there, I'm Arnav 👋
 
 ## I'm a student and Developer!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: learn multipal
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: learn multiple languages and almost master python
+- ⚡ Fun fact: I love to draw and do debates and stuff
 
 ### Connect with me:
 
