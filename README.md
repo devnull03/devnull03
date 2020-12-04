@@ -32,4 +32,4 @@
 
 [twitter]: https://twitter.com/ArnavMehta003
 [stackoverflow]: https://stackoverflow.com/users/12243244/arnav-mehta
-[discord]: https://arnav03mehta.github.io/other_links/discord.html
+[discord]: https://discord.com/users/595599195029635073
