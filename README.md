@@ -28,7 +28,9 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnav03mehta&show_icons=true&hide_border=true" />
+<img align="left" alt="/dev/Null's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnav03mehta&show_icons=true&hide_border=true&theme=dracula" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav03mehta&hide_border=true&theme=dracula)](https://github.com/arnav03mehta/github-readme-stats)
 
 [twitter]: https://twitter.com/ArnavMehta003
 [stackoverflow]: https://stackoverflow.com/users/12243244/arnav-mehta
