@@ -1,14 +1,14 @@
 ### Hi there, I'm Arnav 👋
 
 ## I'm a student and Developer!
-- 🥅 2020 Goals: learn multiple languages and almost master python
+- 🥅 2021 Goals: learn Rust and webassembly and maybe ML
 - ⚡ Fun fact: I love to draw and do debates and stuff
 
 ### Connect with me:
 
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="ArnavMehta003 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Arnav Mehta#4660 | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="devnull03#3508 | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -29,9 +29,9 @@
 
 ---
 
-<img align="left" alt="/dev/Null's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arnav03mehta&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="/dev/Null's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devnull03&show_icons=true&hide_border=true&theme=dracula" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav03mehta&hide_border=true&theme=dracula)](https://github.com/arnav03mehta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnull03&hide_border=true&theme=dracula)](https://github.com/devnull03/github-readme-stats)
 
 [twitter]: https://twitter.com/ArnavMehta003
 [stackoverflow]: https://stackoverflow.com/users/12243244/arnav-mehta
