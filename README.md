@@ -1,8 +1,8 @@
 ### Hi there, I'm Arnav 👋
 
 ## I'm a student and Developer!
-- 🥅 2021 Goals: learn Rust and webassembly and maybe ML
-- ⚡ Fun fact: I love to draw and do debates and stuff
+- 🥅 Goals: learn Rust and webassembly and maybe ML
+- ⚡ Fun fact: I love to draw and do debates
 
 ### Connect with me:
 
